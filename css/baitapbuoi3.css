@@ -1,0 +1,17 @@
+.container{
+    background-color: rgb(224, 47, 76);
+    margin: 30px;
+    width: auto;
+    height:auto ;
+}
+h1{
+    color: white;
+}
+.a1{
+    display: flex;
+    margin: 20px;
+    gap: 30px;
+    
+    
+
+}

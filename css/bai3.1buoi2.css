@@ -1,0 +1,10 @@
+body{
+         
+}
+
+.a1{
+    display: flex;
+    background-color: gray;
+    border: 1px solid ;
+    border-width: 2px;  
+}

@@ -1,0 +1,28 @@
+body{
+    color: white;
+}
+
+.a1{
+    border: 1 solid;
+    background-color: red;
+    width: 100px; 
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+}
+
+.red-box {
+    background-color: red;
+}
+
+.blue-box {
+    background-color: blue;
+}
+
+.green-box {
+    background-color: green;
+}
+

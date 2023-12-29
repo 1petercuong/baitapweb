@@ -1,0 +1,23 @@
+ body {
+    font-family: 'Roboto Slab',serif;
+    margin: 560px;
+    margin-top: 0px;
+    width: 560px;
+
+} 
+
+h2{
+    color: rgb(19, 151, 151);
+}
+
+li{
+    color:  rgb(66, 189, 189);
+}
+
+li:hover{
+    background-color: rgb(228, 228, 19);
+}
+img{
+    width: 560px;
+    height: 430px;
+}
