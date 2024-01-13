@@ -1,9 +1,9 @@
 function ktra(a){
     
-if (a &1){
-    alert("a là số lẻ");
+if (a%2==0){
+    alert("a là số chẵn");
 }
 else{
-    alert("a là số chẵn");
+    alert("a là số lẻ");
 }
 }
