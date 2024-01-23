@@ -4,8 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bài slide show</title>
-    <link rel="stylesheet" href="bai2buoi6.css">
+    <link rel="stylesheet" href="">
 </head>
+<style>
+    .chua img{
+    width: 30%;
+}
+#next, #back{
+    position: fixed;
+    bottom: 50%;
+    color: black;
+    font-size: 30px;
+    cursor: pointer;
+}
+.chua #next{
+    left: 28%;
+}
+</style>
+    
 <body onload="Load_image();">
     <div class="chua">
         <img src="anh1.jpg" alt="anh1" id="anh">
